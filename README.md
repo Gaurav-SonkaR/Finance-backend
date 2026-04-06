@@ -57,7 +57,7 @@ finance-backend/
 ├── seed.py                      # Seed default users + sample data
 ├── requirements.txt
 ├── Procfile                     # For Railway/Render deployment
-├── .env.example
+├── .env
 └── README.md
 ```
 
